@@ -1,4 +1,4 @@
-
+## README
 ### Analysis of User Behaviors on an E-Commerce Website
 
 This project aims to analyze user behaviors occurring on an e-commerce website using BigQuery, focusing on identifying distinct user behaviors leading to a purchase. The analyses are performed on the `ga4_obfuscated_sample_ecommerce` dataset available in BigQuery.
